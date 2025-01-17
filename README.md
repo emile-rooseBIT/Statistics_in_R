@@ -34,7 +34,7 @@ Use the chi-square test of independence when you have two nominal variables and 
 
 H0: The two variables are independent.<br>
 H1: The two variables are not independent.
-
+sxsmlx;l,lkz,vlkz,k,
 ### Implementation in R
 ```r
 data <- matrix(c(4758, 30, 8840, 76), nrow = 2, ncol = 2, byrow = TRUE)
